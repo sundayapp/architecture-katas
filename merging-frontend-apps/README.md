@@ -23,9 +23,9 @@ You are encouraged to deliver comprehensive diagrams and any other relevant arti
 
 ## Functional Requirements
 - Browse menus (images + videos)
-- Order: basket management and paiement or pre authorisation
+- Order: basket management and payment or pre-authorization
 - Bill splitting (multi-guest)
-- Loyalty program & history
+- Loyalty program and history
 - Account management
 
 ## Non-Functional Requirements
