@@ -22,12 +22,12 @@ Describe and illustrate the strategy you would take, the organization you would 
 You are encouraged to deliver comprehensive diagrams and any other relevant artifacts that illustrate your approach.
 
 ## Functional Requirements
-Browse menus (images + videos)
-Order: basket management and paiement or pre authorisation
-Bill splitting (multi-guest)
-Loyalty program & history
-Account management
+- Browse menus (images + videos)
+- Order: basket management and paiement or pre authorisation
+- Bill splitting (multi-guest)
+- Loyalty program & history
+- Account management
 
 ## Non-Functional Requirements
-Responsive under poor network conditions
-Scales to 1k users/minute
+- Responsive under poor network conditions
+- Scales to 1k users/minute
