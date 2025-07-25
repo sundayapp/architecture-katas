@@ -15,11 +15,13 @@ You are encouraged to deliver comprehensive diagrams and any other relevant arti
 
 ## Requirements
 
+- Retrieve the bill for a table from multiple POS (Point of Sale) systems
+- Consult a table bill
 - Bill splitting (multi-guest)
 - Payment
 - Browse menus (images + videos)
-- Loyalty program & history
+- Loyalty program and history
 - Account management
 - Scales to 1k users/minute
 - Deployed on Europe and US regions
-- Grow to be able to order meals
+- Plan to be able to order meals, and combine different types of user experiences (order and pay at table, order and pick up at counter, open a tab, etc.)
