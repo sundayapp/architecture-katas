@@ -93,7 +93,7 @@ Discuss how you will:
 ## Exercise Format
 - **Timebox**: 60 minutes.
 - **Group Deliverables**:
-  1. A rough architecture diagram.
+  1. A rough architecture diagram
   2. A clear explanation of fallback, auditing and cost optimization
   3. High-level thinking on observability & cost metering
   4. At least a mention of migration (progressive adoption)
