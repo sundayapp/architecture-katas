@@ -98,7 +98,7 @@ Discuss how you will:
   3. High-level thinking on observability & cost metering
   4. At least a mention of migration (progressive adoption)
 - **Discussion**:
-  - Present your design.
+  - Present your design
   - Highlight trade-offs (latency vs reliability, cost vs observability)
   - Defend your approach to scalability and auditing
 
