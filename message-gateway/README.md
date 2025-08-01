@@ -76,17 +76,16 @@ Explain:
 
 ### 4. Observability & Auditing Plan
 Define how you will:
-- Track per-tenant **success/failure rates**.
-- Collect metrics (emails sent, SMS cost, push latency).
-- Generate tenant-specific cost reports.
-- Alert on anomalies (e.g., sudden SMS spikes → fraud).
-- Support **customer support audits**: searchable history, evidence export.
+- Track per-provider **success/failure rates**
+- Collect metrics (emails sent, SMS cost)
+- Generate tenant-specific cost reports
+- Alert on anomalies
+- Support **customer support audits**: searchable history
 
 ### 5. Scaling Plan
 Discuss how you will:
-- Partition workloads (per channel, per tenant).
-- How will you handle 10x throughput.
-- Handle backpressure if a provider slows down.
+- How will you handle 10x throughput
+- Handle backpressure if a provider slows down
 - Ensure retries and DLQs don’t overwhelm the system.
 
 ---
