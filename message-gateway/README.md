@@ -36,8 +36,9 @@ fraud protection) for teams to migrate.
   - Daily volume: **100,000+ emails**
 
 - **SMS Sending**
+  - Support multiple providers
   - **OTP** (one-time-password) messages
-  - Optimize for **deliverability**
+  - Optimize for **deliverability** 
   - Daily volume: **50,000 SMS**
   - World wide traffic
 
