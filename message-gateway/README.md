@@ -28,7 +28,7 @@ fraud protection) for teams to migrate.
 
 ### Functional
 - **Email Sending**
-  - Support multiple providers (e.g., Amazon SES, Brevo)
+  - Support multiple providers
   - Automatic **fallback** when a provider fails
   - Support **templating**
   - Handle **subscription preferences**
