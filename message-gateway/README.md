@@ -20,7 +20,7 @@ As part of the migration, existing services will gradually shift from using thei
 provider SDKs directly to consuming the Message Gateway APIs. During this transition, 
 the platform must support **progressive adoption**, ensuring backward compatibility 
 while offering clear incentives (e.g., better deliverability, centralized reporting, 
-fraud protection) for teams to migrate.
+cost optimization) for teams to migrate.
 
 ---
 
