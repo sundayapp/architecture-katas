@@ -60,24 +60,19 @@ fraud protection) for teams to migrate.
 
 ### 1. System Architecture Diagram
 Draw a **high-level architecture** that shows:
-- Entry points (REST/gRPC API, Admin UI, message queue ingestion).
-- Channel-specific processing pipelines (Email, SMS).
-- Provider abstraction layers with fallback logic.
-- Datastores for:
-  - Messages
-  - Templates
-  - Bounce handling
-  - Cost metering
-  - Audit trail
+- API entry points (REST/gRPC API, Admin UI, etc)
+- Channel-specific processing pipelines (Email, SMS)
+- Provider abstraction layers with fallback logic
+- Datastores
 
 ### 2. Key Design Decisions
 Explain:
 - How you implement **multi-provider email & SMS fallback**
-- How you support **cost-tracking**
+- How you support **cost-tracking** & **cost-optimization**
 - Strategies for **optimizing deliverability** in SMS.
 - How you handle **idempotency** to prevent double sends
 - Your approach for **templatization** across channels
-- How you enable **auditing and dispute resolution**
+- How you enable **auditing**
 
 ### 4. Observability & Auditing Plan
 Define how you will:
