@@ -99,8 +99,8 @@ Discuss how you will:
   4. At least a mention of migration (progressive adoption)
 - **Discussion**:
   - Present your design.
-  - Highlight trade-offs (latency vs reliability, cost vs observability).
-  - Defend your approach to scalability and auditing.
+  - Highlight trade-offs (latency vs reliability, cost vs observability)
+  - Defend your approach to scalability and auditing
 
 ---
 
