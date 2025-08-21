@@ -30,4 +30,4 @@ You are encouraged to deliver comprehensive diagrams and any other relevant arti
 
 ## Non-Functional Requirements
 - Responsive under poor network conditions
-- Scales to 1k users/minute
+- Scales to 100k users/minute
